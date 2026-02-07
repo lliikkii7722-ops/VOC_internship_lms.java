@@ -32,5 +32,5 @@ It demonstrates **Object-Oriented Programming (OOP)** concepts, use of **ArrayLi
    - Exit the application safely
 
 
-## Screenshots
+
 
